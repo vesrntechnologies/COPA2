@@ -2,302 +2,181 @@
 let questions = [
     {
     numb: 1,
-    question: "To be in a job or work is?",
+    question: "Which is open source software?",
    
-    answer: "Employee",
+    answer: "Open Office",
     options: [
-      "Employee",
-      "Skill",
-      "Knowledge",
-      "Aptitude"
+      "Open Office",
+      "Windows 10",
+      "Mac OS",
+      "Microsoft Office 365"
     ]
   },
     {
     numb: 2,
-    question: "The ability to do is",
-    answer: "Skill",
+    question: "Which command remove files in Linux?",
+    answer: "rm",
     options: [
-      "Knowledge",
-      "Experience",
-      "Skill", 
-      "Job"
+      "delete",
+      "rm",
+      "dm", 
+      "erase"
     ]
   },
     {
     numb: 3,
-    question: "A person with a growth mindset is always willing to",
+    question: "What is the first option of the KDE desktop in Linux?",
     
-    answer: "grow, challenge, learn",
+    answer: "Application",
     options: [
-      "relax",
-      "Keep quiet",
-      "grow, challenge, learn",
-      "become rich"
+      "Preference",
+      "Application",
+      "System",
+      "System Setting"
     ]
   },
     {
     numb: 4,
-    question: "Jobs that jave become outdated in the past 5 years",
-    answer: "STD Booth",
+    question: "What is the full form of OSS?",
+    answer: "Open Source Software",
     options: [
-      "STD Booth",
-      "ola",
-      "uber",
-      "swiggy"
+      "Open System Service",
+      "Open Source Software",
+      "Open System Software",
+      "Open Synchronized Software"
     ]
   },
     {
     numb: 5,
-    question: "21st century workplace skills help you to get employed..",
-    answer: "even job market keep changing",
+    question: "Which software coding is freely available on the internet and open for users for further use?",
+    answer: "Open source software",
     options: [
-      "even job market keep changing",
-      "very difficult",
-      "only when market is growing",
-      "only with higher qualification"
+      "Unlicensed software",
+      "Open source software",
+      "Free Software",
+      "Community Software"
     ]
   },
   {
     numb: 6,
-    question: "Ethics means",
-    answer: "decide what is right and wrong for a human conduct",
+    question: "What is the full form of FSF?",
+    answer: "Free Software Foundation",
     options: [
-      "decide what is right and wrong for a human conduct",
-      "name of a city",
-      "employability skills",
-      "not relavant to society "
+      "File Server First",
+      "Free Software File",
+      "Free Software Foundation",
+      "First Software First"
     ]
   },
   {
     numb: 7,
-    question: "Values are...",
-    answer: "Motivates our attitude and action",
+    question: "Which command stores the active document permanently?",
+    answer: "Save",
     options: [
-      "not punctual",
-      "Motivates our attitude and action",
-      "very costly",
-      "all have same values"
+      "Save",
+      "Send",
+      "Prepare",
+      "Save as"
     ]
   },
   {
     numb: 8,
-    question: "____ is a brief statement about purpose and principles of constitution ",
+    question: "Which bar contains the current position of the cursor in MS Word?",
 
-    answer: "The preamble",
+    answer: "Status bar",
     options: [
-      "Syllabus",
-      "Module",
-      "The preamble",
-      "Unit"
+      "Layout",
+      "Title bar",
+      "Status bar",
+      "Horizontal ruler"
     ]
   },
   {
     numb: 9,
-    question: "Identify the improper term...",
+    question: "Which is a text styling feature of MS Word?",
 
-    answer: "green pollution",
+    answer: "Word Art",
     options: [
-      "green pollution",
-      "water pollution",
-      "air pollution",
-      "sound pollution"
+      "Word Fill",
+      "Word Art",
+      "Word Colour",
+      "Word Font"
     ]
   },
  {
     numb: 10,
-    question: "People from all religions or no religions are treated equally means.... ",
+    question: "Which document view resembles the appearance of a web browser? ",
 
-    answer: "Secular Country",
+    answer: "Web layout view",
     options: [
-      "democratic",
-      "religious",
-      "Non secular",
-      "Secular Country"
+      "draft view",
+      "outline view",
+      "Web layout view",
+      "full screen reading"
     ]
   },
      {
     numb: 11,
-    question: "........... is major changes takes place in manufacturing",
+    question: "What is the purpose of quick access toolbar?",
 
-    answer: "Industry Revolution",
+    answer: "To hold familiar and repeated function",
     options: [
-      "Green Revolution",
-      "Industry Revolution",
-      "Water revolution",
-      "Food revolution"
+      "To hold advance function",
+      "To hld special function",
+      "To hold basic function",
+      "To hold familiar and repeated function"
     ]
   },
      {
     numb: 12,
-    question: "1st industrial revolution started in?",
+    question: "What is the purpose of gutter margin?",
 
-    answer: "18th century",
+    answer: "Added to binding side of page when printing",
     options: [
-      "18th century",
-      "19th century",
-      "20th century",
-      "21st century"
+      "Added to left margin when printing",
+      "Added to right marghin when printing",
+      "Added to binding side of page when printing",
+      "Added to the outside of page when printing"
     ]
   },
      {
-    numb: 63,
-    question: "Hard Skill....",
+    numb: 13,
+    question: "Which option is used for tab setting?",
 
-    answer: "60 WPM typing speed",
+    answer: "Horizontal ruler",
     options: [
-      "quick learner",
-      "time management",
-      "60 WPM typing speed",
-      "spoken English"
+      "Horizontal ruler",
+      "Status bar",
+      "Vertical ruler",
+      "Vertical scroll bar"
     ]
   },
      {
-    numb: 64,
-    question: "To grow yourself you must............. ",
+    numb: 14,
+    question: "What is the purpose of cover page?",
 
-    answer: "know your self",
+    answer: "Allows to fill title, author and date",
     options: [
-      "know your office",
-      "know your self",
-      "know your institute",
-      "know your country"
+      "Allows to fill title, author and date",
+      "Fills list of people intent to mail",
+      "To view the mailed list",
+      "Contains details of the documents"
     ]
   },
      {
-    numb: 65,
-    question: "Time management....",
+    numb: 15,
+    question: "Which term refers to the process of combining two or more cells to make one?",
 
-    answer: "Complete your task on time",
+    answer: "Merging",
     options: [
-      "Complete your task on time",
-      "managing time",
-      "hard skill",
-      "problem solving"
+      "Combining",
+      "Joining",
+      "Merging",
+      "Creating"
     ]
   },
 
-     {
-    numb: 16,
-    question: "Where does the pinned applications stayed in Windows OS? ",
-
-    answer: "Taskbar",
-    options: [
-      "Desktop",
-      "Notification Area",
-      "Start Button",
-      "Taskbar"
-    ]
-  },
-     {
-    numb: 17,
-    question: "What is the extension of notepad file? ",
-
-    answer: ".txt",
-    options: [
-      ".fil",
-      ".dll",
-      ".doc",
-      ".txt"
-    ]
-  },
-     {
-    numb: 18,
-    question: "Name the tool in control panel which is used to adjust your computer setting with voice command? ",
-
-    answer: "Ease of access",
-    options: [
-      "Ease of access",
-      "System and Security",
-      "Appearance and personalization",
-      "Hardware and sound"
-    ]
-  },
-     {
-    numb: 19,
-    question: "Name the shortcut key used to open start menu? ",
-
-    answer: "Windows Logo",
-    options: [
-      "Windows Logo",
-      "Ctrl",
-      "Shift",
-      "Alt"
-    ]
-  },
-     {
-    numb: 20,
-    question: "Which type of device is a printer? ",
-
-    answer: "Output Device",
-    options: [
-      "Input device",
-      "Output Device",
-      "Processing Device",
-      "Calcuating Device"
-    ]
-  },
-     {
-    numb: 21,
-    question: "What is the function of operating system? ",
-
-    answer: "Process and memory management",
-    options: [
-      "Word processing",
-      "Calculation",
-      "Process and memory management",
-      "Drawing Pictures"
-    ]
-  },
-     {
-    numb: 22,
-    question: "Name the ICON in which deleted files and folder are found",
-
-    answer: "Recycle Bin",
-    options: [
-      "My Computer",
-      "Recycle Bin",
-      "Microsoft Edge",
-      "Google Chrome"
-    ]
-  },
-     {
-    numb: 23,
-    question: "Name the tool in control panel which we can change the system date?",
-
-    answer: "Date and Time",
-    options: [
-      "User Account",
-      "System",
-      "Date and Time",
-      "Fonts"
-    ]
-
-         
-  },
-     {
-    numb: 24,
-    question: "Name the shortcut key used for refresh windows desktop ",
-
-    answer: "F5",
-    options: [
-      "F1",
-      "F3",
-      "F5",
-      "F7"
-    ]
-  },
-     {
-    numb: 25,
-    question: "Which type of device is a scanner? ",
-
-    answer: "Input device",
-    options: [
-      "Processing Device",
-      "Internal Device",
-      "Output Device",
-      "Input device"
-    ]
-  },
+    
     
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
