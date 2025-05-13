@@ -236,6 +236,66 @@ let questions = [
       "columns"
     ]
   },
+      {
+    numb: 21,
+    question: "Which MS word tab has acess to mail merge options?",
+
+    answer: "Mailings tab",
+    options: [
+      "Insert Tab",
+      "Reference Tab",
+      "Home Tab",
+      "Mailings tab"
+    ]
+  },
+      {
+    numb: 22,
+    question: "Which is a default document type for a mail merge?",
+
+    answer: "Letters",
+    options: [
+      "Data",
+      "Lables and list",
+      "Letters",
+      "Set"
+    ]
+  },
+       {
+    numb: 23,
+    question: "Which shortcut key prints a document?",
+
+    answer: "Ctrl + P",
+    options: [
+      "Ctrl + C",
+      "Ctrl + R",
+      "Ctrl + P",
+      "Ctrl + E"
+    ]
+  },
+          {
+    numb: 24,
+    question: "Which key copies the selected items in open source office?",
+
+    answer: "Ctrl + C",
+    options: [
+      "Ctrl + C",
+      "Ctrl + R",
+      "Ctrl + P",
+      "Ctrl + E"
+    ]
+  },
+           {
+    numb: 25,
+    question: "Which list is used to create multiple copies of a document in a mail merge?",
+
+    answer: "Data Source",
+    options: [
+      "Form label",
+      "Main Document",
+      "Data Source",
+      "Database"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
