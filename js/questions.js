@@ -175,9 +175,67 @@ let questions = [
       "Creating"
     ]
   },
+ {
+    numb: 16,
+    question: "What has the ability to combine name and addresses within standard document?",
 
+    answer: "mail merge",
+    options: [
+      "Document formatting",
+      "mail merge",
+      "Database management",
+      "Form letters"
+    ]
+  },
+ {
+    numb: 17,
+    question: "Which shortcut key center aligns the selected text in MS Word?",
+
+    answer: "Ctrl + E",
+    options: [
+      "Ctrl + F",
+      "Ctrl + A",
+      "Ctrl + E",
+      "Ctrl + C"
+    ]
+  },
+     {
+    numb: 18,
+    question: "What is the purpose of Shift+Ctrl+N in Open Office?",
+
+    answer: "To open templates and documents dialog",
+    options: [
+      "To create new document",
+      "to open a document",
+      "To open templates and documents dialog",
+      "To exit application"
+    ]
+  },
     
-    
+     {
+    numb: 19,
+    question: "How can you inset a audio file in your document?",
+
+    answer: "Insert > object menu option",
+    options: [
+      "Insert > sound menu",
+      "Insert > file menu option",
+      "Insert > object menu option",
+      "Insert > blank menu"
+    ]
+  },
+     {
+    numb: 20,
+    question: "How are individuals in a table referred to as?",
+
+    answer: "cells",
+    options: [
+      "cells",
+      "boxes",
+      "rows",
+      "columns"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
