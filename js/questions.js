@@ -296,6 +296,308 @@ let questions = [
       "Database"
     ]
   },
+     {
+    numb: 26,
+    question: "Which is a step of merge process?",
+
+    answer: "preview the merge results",
+    options: [
+      "preview the merge results",
+      "set margin of the document",
+      "format data source",
+      "remove data sources"
+    ]
+  },
+     {
+    numb: 27,
+    question: "How cells are named in MS-Excel?",
+
+    answer: "Alphanumerically",
+    options: [
+      "Alphabetically",
+      "Numerically",
+      "Alphanumerically",
+      "Special character"
+    ]
+  },
+      {
+    numb: 28,
+    question: "What is the maximum limit of rows in MS-Excel 2010?",
+
+    answer: "1048576",
+    options: [
+      "1084576",
+      "1085476",
+      "1048576",
+      "1058476"
+    ]
+  },
+     {
+    numb: 29,
+    question: "Which tab adds pivot table, charts and hyperlinks in a spread sheet?",
+
+    answer: "Insert",
+    options: [
+      "Insert",
+      "Pagelayout",
+      "data",
+      "review"
+    ]
+  },
+     {
+    numb: 30,
+    question: "Which Excel tab is used for importing, outlining and subtotalling the data placed in a worksheet data list?",
+
+    answer: "data",
+    options: [
+      "formula",
+      "data",
+      "review",
+      "insert"
+    ]
+  },
+    {
+    numb: 31,
+    question: "Which key combined with ctrl key creates a macro key in Excel?",
+
+    answer: "Alphabetic",
+    options: [
+      "Numeric",
+      "Alphabetic",
+      "Alphanumeric",
+      "Special character"
+    ]
+  },
+    {
+    numb: 32,
+    question: "Which function key opens save as dialogue box in MS Excel?",
+
+    answer: "F12",
+    options: [
+      "F2",
+      "F5",
+      "F7",
+      "F12"
+    ]
+  },
+
+    {
+    numb: 33,
+    question: "Which starts with = sign in Excel 2010?",
+
+    answer: "Formulas",
+    options: [
+      "Data",
+      "Text",
+      "Numbers",
+      "F12"
+    ]
+  },
+      {
+    numb: 34,
+    question: "Which function counts the number of cells that contains numbers in a range?",
+
+    answer: "count()",
+    options: [
+      "count()",
+      "countif()",
+      "sum()",
+      "sumif()"
+    ]
+  },
+      {
+    numb: 35,
+    question: "Which is a Date and Time function in Excel?",
+
+    answer: "NOW()",
+    options: [
+      "FIND()",
+      "MOD()",
+      "NOW()",
+      "MID()"
+    ]
+  },
+      {
+    numb: 36,
+    question: "Which option displays the rows that meet certian conditions in MS Excel?",
+
+    answer: "Filter",
+    options: [
+      "Find",
+      "Filter",
+      "Format",
+      "Sort"
+    ]
+  },
+      {
+    numb: 37,
+    question: "Which command converts cell text to CAPS?",
+
+    answer: "=UPPER()",
+    options: [
+      "=UPPER()",
+      "=LOWER()",
+      "=LEN()",
+      "=TRIM()"
+    ]
+  },
+     {
+    numb: 38,
+    question: "How to insert chart in MS Excel",
+
+    answer: "Insert Tab-Charts",
+    options: [
+      "Home Tab-Cells",
+      "Insert Tab-Charts",
+      "Data Tab-Data Tools",
+      "Formula Tab-Insert Function"
+    ]
+  },
+    {
+    numb: 39,
+    question: "Which ribbon menu displays the page setup grouping of commands?",
+
+    answer: "Layout",
+    options: [
+      "Layout",
+      "Insert",
+      "Review",
+      "Home"
+    ]
+  },
+     {
+    numb: 40,
+    question: "In which application data validation is used?",
+
+    answer: "MS Excel",
+    options: [
+      "MS Word",
+      "MS Excel",
+      "MS Paint",
+      "MS Powerpoint"
+    ]
+  },
+     {
+    numb: 41,
+    question: "Which type of chart is used in MS Excel?",
+
+    answer: "Bubble",
+    options: [
+      "Bubble",
+      "Cone",
+      "Circle",
+      "Square"
+    ]
+  },
+     {
+    numb: 42,
+    question: "Whcih creates a bar diagram?",
+
+    answer: "Insert-Chart",
+    options: [
+      "Format-Chart",
+      "Tools-Chart",
+      "Insert-Chart",
+      "Edit-Chart"
+    ]
+  },
+      {
+    numb: 43,
+    question: "Which option inserts a Pivot Table?",
+
+    answer: "Insert Tab - Tables Group",
+    options: [
+      "Formula Tab- Data Analysis Group",
+      "Data Group In the Tables Group",
+      "Data Group in the Pivot Table Group",
+      "Insert Tab - Tables Group"
+    ]
+  },
+     {
+    numb: 44,
+    question: "Which tab is used to access the What-if Analysis Excel tools?",
+
+    answer: "Data Tab",
+    options: [
+      "Home Tab",
+      "Insert Tab",
+      "PayLayout Tab",
+      "Data Tab"
+    ]
+  },
+     {
+    numb: 45,
+    question: "Which type does Portrait and Landscape belongs to?",
+
+    answer: "Page Orientation",
+    options: [
+      "Page Arrangements",
+      "Page breaks",
+      "Page Orientation",
+      "Page Margins"
+    ]
+  },
+      {
+    numb: 46,
+    question: "Which is a flow control statement in Java?",
+
+    answer: "continue",
+    options: [
+      "continue",
+      "method",
+      "field",
+      "exit()"
+    ]
+  },
+       {
+    numb: 47,
+    question: "Which allows the execution of a statement or group of statements multiple times?",
+
+    answer: "loop",
+    options: [
+      "array",
+      "loop",
+      "function",
+      "excepiton"
+    ]
+  },
+    
+       {
+    numb: 48,
+    question: "Which is the superclass of every class in Java?",
+
+    answer: "Object class",
+    options: [
+      "ArrayList class",
+      "Object class",
+      "String class",
+      "ArrayList class"
+    ]
+  },
+      {
+    numb: 49,
+    question: "Which method of objec class can clone an object?",
+
+    answer: "Object clone()",
+    options: [
+      "copy()",
+      "Objectcopy()",
+      "Object clone()",
+      "Cloning()"
+    ]
+  },
+      {
+    numb: 50,
+    question: "Which keyword prevents inheritance of a class?",
+
+    answer: "final",
+    options: [
+      "super",
+      "constant",
+      "class",
+      "final"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
